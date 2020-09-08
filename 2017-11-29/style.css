@@ -1,0 +1,11 @@
+body {
+  color: white;
+  background-color: black;
+  background-image: url('img/bg.jpg');
+  width: 750px;
+  margin: auto;
+}
+
+.star {
+  color: black;
+}
